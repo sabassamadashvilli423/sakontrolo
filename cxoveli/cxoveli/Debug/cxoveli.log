@@ -1,0 +1,8 @@
+﻿  Cat.cpp
+  cxoveli.cpp
+  Dog.cpp
+  Parrot.cpp
+  Pet.cpp
+  Generating Code...
+cxoveli.obj : error LNK2019: unresolved external symbol "public: __thiscall Pet::Pet(void)" (??0Pet@@QAE@XZ) referenced in function "public: __thiscall Cat::Cat(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (??0Cat@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+C:\Users\Zauri\source\repos\cxoveli\Debug\cxoveli.exe : fatal error LNK1120: 1 unresolved externals
